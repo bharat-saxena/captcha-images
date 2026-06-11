@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/l
 
 ### `demo captcha`
 
-https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/a/captcha_1.jpg
+![Captcha_1](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/a/captcha_1.jpg)
 
 ### `captcha_codes.txt`
 
