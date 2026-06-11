@@ -222,7 +222,7 @@ for i, captcha in enumerate(captchas, 1):
 
 ## 📜 License
 
-This dataset is gathered from `https://captcha.com/demos`. Feel free to use it in your projects.
+This dataset is prepared by [अहम् Viraj](https://github.com/iviraj). All Captcha images are gathered from `https://captcha.com/demos`. Feel free to use it in your projects.
 
 ---
 
