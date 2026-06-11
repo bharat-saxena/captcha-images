@@ -75,6 +75,10 @@ https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/l
 ### `demo captcha`
 
 ![Captcha_1](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/a/captcha_1.jpg)
+![Captcha_54](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/a/captcha_54.jpg)
+![Captcha_86](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/a/captcha_86.jpg)
+![Captcha_32](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/a/captcha_32.jpg)
+![Captcha_111](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/a/captcha_111.jpg)
 
 ### `captcha_codes.txt`
 
