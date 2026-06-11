@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/l
 ![Captcha_29](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/c/captcha_29.jpg)
 ![Captcha_37](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/d/captcha_37.jpg)
 ![Captcha_43](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/e/captcha_43.jpg)
-![Captcha_50](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/f/captcha_50.jpg)
+![Captcha_50](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/f/captcha_51.jpg)
 ![Captcha_65](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/g/captcha_65.jpg)
 ![Captcha_78](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/h/captcha_78.jpg)
 ![Captcha_86](https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/i/captcha_86.jpg)
