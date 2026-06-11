@@ -72,6 +72,10 @@ https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/l
 
 ## 📄 Data Files
 
+### `demo captcha`
+
+https://raw.githubusercontent.com/bharat-saxena/captcha-images/refs/heads/main/a/captcha_1.jpg
+
 ### `captcha_codes.txt`
 
 A plain text file with one CAPTCHA code per line, in order from captcha_1 to captcha_120.
