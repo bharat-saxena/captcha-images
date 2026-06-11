@@ -1,6 +1,6 @@
 # 🔐 captcha-images
 
-A structured dataset of **120 CAPTCHA images** paired with their text codes, organized into groups and available via raw GitHub URLs. Ideal for testing CAPTCHA validation systems, OCR training, UI prototyping, and form testing.
+A structured dataset of **120 CAPTCHA images** paired with their text codes, organized into groups and available via raw GitHub URLs. Ideal for testing CAPTCHA validation systems, OCR training, UI prototyping, and form testing. But you can also it for mini and personal projects.
 
 ---
 
@@ -207,7 +207,7 @@ for i, captcha in enumerate(captchas, 1):
 
 ## 📜 License
 
-This dataset is provided for educational and testing purposes. Feel free to use it in your projects.
+This dataset is gathered from `https://captcha.com/demos`. Feel free to use it in your projects.
 
 ---
 
